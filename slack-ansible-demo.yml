@@ -1,0 +1,8 @@
+slash_cmd: rap   #URI used for the slash command
+slack_interactive: interactive-component #URI used for interactive component
+slack_token: 5YJf6bnf0f8Rron1n9jm7uWJ
+slack_bot_token: xoxb-25370112371-1883177589381-a1l9iWE9vSuHJqxm6ldS8qyu
+slack_webhook: https://hooks.slack.com/services/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
+tower_hostname: 3.82.135.197
+tower_username: rainnet  # Update this if different
+tower_password: Nex@#383@Rain476 # Update this if different
