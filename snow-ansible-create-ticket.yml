@@ -10,8 +10,8 @@
       state: present
       table: change_request
       username: admin
-      password: kmrFRGDX9fq9
-      instance: dev102183
+      password: fC84GfsdHHQe
+      instance: dev65227
       data:
         severity: 2
         priority: 2
